@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KFC</title>
+    <link rel="stylesheet" href="kfc.css">
+</head>
+<body>
+    <div class="main-body">
+        <div class="body">
+        <div class="contain">
+            <div id="">
+                <image id="image" src="Search_Pin.e88a4d93.svg"></image>
+
+            
+            <button id="click">Set Location</button>
+            <div id="para">Allow location access for local store menu and promos</div>
+        </div>
+        </div>
+   
+    <hr class="line">
+    <div  id="">
+        <image id="kfc" src="kfcLogo.492728c6.svg"></image>
+
+    </div>
+    <div id="">
+        <h5 id="menu">Menu</h5>
+    </div>
+    <div id="">
+        <h5 id="deal">Deals</h5>
+    </div>
+    <div class="icon">
+        <image  id="account" src="Account_Icon.webp"></image>
+        </div>
+        <div class="signs">
+        <span id="sign">Sign In</span>
+    </div>
+        <div class="sin"></div>
+        <div class="base">
+        <button id="basket" aria-label="close" style="background: url(//images.ctfassets.net/wtodlh47qxpt/6qtBVFuno7pdwOQ9RIvYm9/d13e9b7242980972cf49beddde2cc295/bucket_cart_icon.svg)no repeat;">0</button>
+    </div>
+   
+    <div id="pick">
+        <button id="start">Start Order</button>
+        <h4 id="order">LET'S ORDER FOR DELIVERY,  PICK UP , OR DINE-IN</h4>
+       
+
+    </div>
+    <div>
+        <hr class="singleline">
+        <h2 id="browse">BROWSE MENU CATEGORIES</h2>
+        
+    </div>
+    <div class="">
+        <div class="pic">
+            <image  id="image0"  src="KFC-category-EPIC-Bucket-4_Big-12_-28th-JAN_1.webp"></image>
+            <div class="">
+                <span  id="epic">EPIC BUCKET OF THE DAY</span>
+
+            </div>
+
+        </div>
+        <div class="pic1">
+            <image id="image1"   src="CAT181.webp"></image>
+            <div class="">
+                <span id="match">MATCH DAY COMBOS</span>
+            </div>
+
+        </div>
+        <div class="pic2">
+            <image id="image2" src="CAT158.webp"></image>
+            <div class="">
+                <span id="box">BOX MEALS</span>
+
+            </div>
+
+        </div>
+
+        <div class="pic3">
+            <image id="image3"   src="KFC-category-Variety-Bucket-Dine-In-28th-JAN.webp"></image>
+            <div class="">
+                <span id="variety">VARIETY BUCKETS</span>
+
+            </div>
+
+        </div>
+        <div class="pic4">
+            <image  id="image4" src="CAT86.webp"></image>
+            <div class="">
+                <span id="chicken">CHICKEN BUCKET</span>
+
+            </div>
+
+        </div>
+        <div class="pic5">
+            <image id="image5"  src="TILES_Burgers_465x327_A.webp"></image>
+            <div class="">
+                <span id="burger">BURGERS</span>
+
+            </div>
+            </div>
+            <div class="pic6">
+                <image id="image6"  src="CAT89.webp"></image>
+                <div class="">
+                    <span id="snack">SNACKS</span>
+    
+                </div>
+                </div>
+                <div class="pic7">
+                    <image id="image7"  src="CAT228.webp"></image>
+                    <div class="">
+                        <span id="values">VALUE LUNCH SPECIAL</span>
+        
+                    </div>
+                    </div>
+                    <div class="pic8">
+                        <image id="image8"  src="CAT213.webp"></image>
+                        <div class="">
+                            <span id="rice">RICE BOWLZ</span>
+            
+                        </div>
+                        </div>
+
+                        <div class="pic9">
+                            <image id="image9"  src="CAT92.webp"></image>
+                            <div class="">
+                                <span id="berv">BEVERAGE & DESSERTS</span>
+                
+                            </div>
+                            </div>
+
+                            <div class="pic10">
+                                <image id="image10"  src="CAT301.webp"></image>
+                                <div class="">
+                                    <span id="veg">VEG</span>
+                    
+                                </div>
+                                </div>
+
+                                <div class="pic11">
+                                    <image id="image11"  src="Finger_lickInDesk.a7d05386.svg"></image>
+                                     
+                                    </div>       
+
+        <div class="svg">
+            <svg class="injected-svg" width="94"  height="33" viewBox="0 0 80 42"  fill="none" >
+                <rect width="16.4103" height="41.0256" fill="#E4002B"></rect>
+                <rect  x="32.8203" width="16.4103" height="41.0256" fill="#E4002B"></rect>
+                <rect  x="63.5898" width="16.4103" height="41.0256" fill="#E4002B"></rect>
+
+            </svg>
+        </div>
+        <div class="save">
+            <h2 id="saves">SAVE MORE AS YOU ORDER</h2>
+        </div>
+        <div calss="promoted">
+            <div class="promos">
+                <div  class="slice-slider"  dir="ltr">
+                    <div class="slice-arrow" tabindex="0" role="button" aria-label="previous" data-testid="pre-button-handler">
+                        
+
+                    </div>
+                    <div class="slide-track" style="width: 5446px; opacity: 1; transform: translate3d(-20px, 0px, 0px);">
+                      
+
+
+
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="CHKZINGER.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">free classic zinger</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 499</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+
+
+
+                     <div  class="cripy">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="ADDCHK99.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">2 pc hot & cripy chicken @ rs 99</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 499</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+
+
+                  <div class="image25">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="BIGSAVE.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">upto rs 100 off</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 699</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+
+
+                 <div class="image26">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="PHP75.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">rs 75 off</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 599</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                  
+                
+                
+                 <div class="image27">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="VEGZINGER.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">free veg zinger</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 499</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                 
+                 <div class="image28">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="FREEROLL.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">free double chicken roll</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 999</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+
+                
+                 <div class="image29">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="no-image.png"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">free double chicken roll</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 999</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+
+                
+                
+                 <div class="image30">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="FREESTRIPS.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">free strips (3pc)</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 399</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+                 </div>
+                
+
+
+
+                 <div class="image31">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="FREERPC.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">free popcorn (reg)</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 399</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+
+                 </div>
+
+                 <div class="image32">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="KFC40.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">50% off today</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 250</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+
+                 </div>
+
+
+
+                 <div class="image33">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="40upto80.jpg"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">40% off today</span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">Min. Order Value 200</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+
+                  </div>
+
+
+
+                 <div class="image34">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="no image 2.png"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">50% off </span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">50% off on select products</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+
+                 </div>
+
+
+
+
+                 <div class="image35">
+                    <div class="slick-active" style="outline: none;">
+                        <div>
+                            <div tabindex="-1px" style="width: 100%;display: inline;">
+                                <div class="slick-active">
+                                    <div class="promo-card">
+                                        <div class="promoimage">
+                                            <image src="no-image3.png"  width="100%"></image>
+
+                                        </div>
+                                        <div class="promocard">
+                                            <div class="promotext">
+                                                <span class="promoimagetext">testbogov </span>
+
+                                            </div>
+                                            <div class="promoco">
+                                                <span class="promoimagetext">BOGO</span>
+                                            </div>
+                                            <div class="view">
+                                                <div class="viewall">
+                                                <u class="viewdetail">View Details</u>
+                                            </div>
+                                            </div>
+                                <div  class="promobutton">
+                                    <button class="button-class">Apply Offer</button>
+
+                                </div>
+                            </div>
+                        </div>
+                      </div>  
+                        </div>
+                        </div>
+                    </div>
+
+                 </div>
+
+
+             
+
+
+                 <div  style="padding-left: 4479px; margin-top: -490px;">
+                    <div tabindex="-1px" style="width: 100%;display: inline-block;">
+                        <div class="slick-active">
+                            <div class="promo-cards">
+                                
+                                    <div class="offer">
+                                        <div class="exclud">
+                                        <div class="offers">
+                                            <h2 id="deals">SIGN IN TO SEE <br>EXCLUSIVE <br> OFFERS & DEALS</h2>
+                                            <div class="in">
+                                                <div class="sign">
+                                                <button id="up">Sign in / Sign up</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                 </div>
+
+
+                 <div class="left-arrow" tabindex="-1"  role="button" aria-label="next" data-testid="next-button-handler">
+
+                 </div>
+
+ 
+                
+                 </div>
+            </div>
+                </div>
+
+                </div>
+                
+                
+                <div class="footer">
+                    <div style="padding-left: 167px;">
+                    <ul>
+                        <li a href="#">KFC India</li>
+                        <li a href="#">About KFC</li>
+                        <li a href="#">Kfc Care</li>
+                        <li a href="#">Careers</li>
+                        <li a href="#">Our Golden Past</li>
+                        <li a href="#">Reponsible</li>
+                        <li a href="#">Disclosure</li>
+                        </ul>
+                </div>
+
+                <div>
+                    <ul>
+                        <li a href="#">Legal</li>
+                        <li a href="#">Terms and</li>
+                        <li a href="#">KFC Care</li>
+                        <li a href="#">Condition</li>
+                        <li a href="#">Privacy Policy</li>
+                        <li a href="#">Disclaimer</li>
+                        <li a href="#">Caution Notice</li>
+                        </ul>
+                </div>
+                <div>
+                    <ul style="margin-top: -23px">
+                        <li a href="#">KFC Food</li>
+                        <li a href="#">Menu</li>
+                        <li a href="#">Order Lookup</li>
+                        <li a href="#">Gift Card</li>
+                        <li a href="#">Nutrition &</li>
+                        <li a href="#">Allergen</li>
+                        
+                        </ul>
+                </div>
+                <div>
+                    <ul style="padding-right: 282px;margin-top: -45px;">
+                        <li a href="#">Support</li>
+                        <li a href="#">Get Help</li>
+                        <li a href="#">Contract Us</li>
+                        <li a href="#">KFC Feedback</li>
+                        <li a href="#">Privacy Policy</li>
+                        
+                        </ul>
+                </div>
+                </div>
+
+
+
+
+
+
+            </div>  
+                </div>
+
+                
+</body>
+</html>
